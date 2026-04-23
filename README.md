@@ -69,18 +69,6 @@ Lack of visibility into:
 
 ---
 
-## 🗂️ Project Structure
-
-```bash
-project/
-│
-├── app.py
-├── analysis.ipynb
-├── dataset.csv
-├── requirements.txt
-└── README.md
-```
-
 ---
 
 ## 🚀 How to Run Locally
@@ -97,7 +85,8 @@ streamlit run app.py
 
 ## 📊 Dashboard Preview
 
-👉 *(Add screenshots here after uploading to GitHub)*
+<img width="1182" height="807" alt="image" src="https://github.com/user-attachments/assets/d5c250cb-2efe-42ca-abd4-3282139c2299" />
+
 
 ---
 
