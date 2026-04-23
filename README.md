@@ -8,7 +8,7 @@ This project focuses on analyzing shipping routes from factories to customers to
 
 ## 🌍 Live Demo
 
-👉 **Streamlit App:** https://your-app-name.streamlit.app
+👉 **Streamlit App:** https://supply-chain-shipping-analysis-nmveh3kpdjkmjztn73ks3n.streamlit.app
 
 ---
 
