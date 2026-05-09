@@ -1,5 +1,8 @@
 # 📦 Factory-to-Customer Shipping Route Efficiency Analysis
 
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/7b41acac-a09e-4461-9aaf-cf65af90c765" />
+
+
 ### 🚚 Nassau Candy Distributor
 
 This project focuses on analyzing shipping routes from factories to customers to evaluate efficiency and identify areas for improvement. By leveraging data analysis techniques, it aims to uncover patterns in delivery performance, highlight bottlenecks, and provide actionable insights that can help optimize logistics operations.
