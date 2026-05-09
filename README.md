@@ -1,6 +1,7 @@
 # 📦 Factory-to-Customer Shipping Route Efficiency Analysis
 
-<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/7b41acac-a09e-4461-9aaf-cf65af90c765" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/349d79ea-eb80-4764-a9ab-a8f7183163e6" />
+
 
 
 ### 🚚 Nassau Candy Distributor
